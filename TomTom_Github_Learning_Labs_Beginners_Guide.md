@@ -1,4 +1,4 @@
-# TomTom GitHub Learning Labs
+# TomTom GitHub Learning Labs - Beginners Guide
 
 Before you start learning using TomTom GitHub Learning Labs there are a few important things 
 you should be aware to get the best user experience.
