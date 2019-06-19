@@ -4,4 +4,4 @@ Within this page you can find everything you need about the TomTom GitHub Learni
 
 ## Guides
 
-- HowTo: [TomTom Github Learning Labs Beginners Guide](beginners-guide/README.md)  
+- HowTo: [TomTom Github Learning Labs Beginners Guide](TomTom_Github_Learning_Labs_Beginners_Guide.md)  
